@@ -1,0 +1,613 @@
+.navigation h1 {
+    position: absolute;
+    left: 80px;
+    top: -1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:x-large;
+}
+.navigation a {
+    display:inline;
+    color: black;
+    text-align:center;
+    text-decoration: none;  
+    top: 0;
+    width: 100%;
+    padding: 1rem 1rem 1 rem 1rem;
+    padding-left: -70px;
+    position: relative;
+    left: 560px;
+    top: 28px;
+}
+.navigation img {
+    position: relative;
+    left: 19px;
+    top: 4px;
+}
+.booktoday {
+    background-color: black;
+    margin-left: -31rem;
+    margin-right: -31rem;
+    margin-top: 4rem;
+    padding: 280px;
+    color: antiquewhite;
+    text-align: center;
+    font-size: xx-large;
+}
+.contact img {
+    width: 100%;
+    position: absolute;
+    left: 700px;
+    top: 9rem;
+}
+button {
+    position: absolute;
+    top:50%;
+    background-color:red;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    color: antiquewhite;
+    font-weight: bold;
+    margin: 0;
+    align-items: center;
+    left: 30px;
+    top: 500px;
+}
+button:hover {
+    background-color: transparent;
+    color: white;
+    border: 2px solid;
+}
+
+.about {
+    background-color: black;
+    margin-left: -31rem;
+    margin-right: -31rem;
+    margin-top: 4rem;
+    padding: 280px;
+    block-size: 9rem;
+}
+.about p {
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: left;
+    position: relative;
+    left: -80px;
+    top: -120px;
+}
+.about img {
+max-width: 38%;  
+height: auto; 
+margin-left: auto;
+position: relative;
+right: -38rem;
+top: -33rem;
+}
+.about h2 {
+    color: antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 3rem;
+    position: relative;
+    left: -80px;
+    top: -140px;
+    }
+.price {
+    background-color: black;
+    margin-left: -31rem;
+    margin-right: -31rem;
+    margin-top: 4rem;
+    padding: 280px;
+    block-size: 10rem;
+}
+.price h2 {
+    color: antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 3rem;
+    text-align: left;
+    position: relative;
+    left: 184px;
+    top: -240px;
+}
+ .basic {
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: left;
+    background-color: grey;
+    margin-left: 6rem;
+    margin-top: 3rem;
+    padding: 75px; 
+    margin-right: 84rem;
+    position: absolute;
+    right: -400px;
+    top: 14.7rem;
+}
+.basic p { 
+    position: relative;
+    left: 80px;
+    top: -10px;
+}
+.deluxe p {
+    position: relative;
+    left: 80px;
+    top: -10px;
+}
+.deluxe {
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: left;
+    background-color: grey;
+    margin-left: 6rem;
+    margin-top: 3rem;
+    padding: 75px; 
+    margin-right: 84rem;
+    position: absolute;
+    right: -838px;
+    top: 14.7rem;
+}
+.vip {
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: left;
+    background-color: grey;
+    margin-left: 6rem;
+    margin-top: 3rem;
+    padding: 75px; 
+    margin-right: 84rem;
+    position: absolute;
+    right: -1260px;
+    block-size: 15.5rem;
+    top: 14.7rem;
+}
+.vip p {
+    position: relative;
+    left: 80px;
+    top: -10px;
+}
+.contact {
+    background-color: black;
+    margin-left: -31rem;
+    margin-right: -31rem;
+    margin-top: 4rem;
+    padding: 240px;
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: left;
+}
+.contact h2 {
+    color: antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 3rem;
+    text-align: left;
+    position: relative;
+    left: -135px;
+    top: -180px;
+}
+img {
+    max-width: 30%;  
+    height: auto; 
+    margin-left: auto;
+}
+.portfolio {
+    background-color: black;
+    margin-left: -31rem;
+    margin-right: -31rem;
+    margin-top: 4rem;
+    padding: 150px; 
+    block-size: 83rem;
+}
+.portfolio h2 {
+    color: antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 3rem;
+    text-align: left;
+    position: relative;
+    left: 439px;
+    top: -140px;
+}
+button {
+    margin-left: 600px;
+    margin-top: -60px;
+}
+.booktoday h2 {
+    position: relative;
+    top: -57px;
+}
+body {
+    min-height: 100vh;
+    max-width: 400px;
+    background-color: papayawhip; 
+    margin: 0 auto;
+}
+.navigation img {
+    position: absolute;
+    left: 19px;
+    top: 4px;
+}
+.contact form {
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: left;
+    position: absolute;
+    left: 148px;
+    top: 260px;
+}
+.contact button {
+    position: absolute;
+    left: -520px;
+    top: 250px;
+    width: 120px;
+    height: 50px;
+    font-size: medium;
+}
+.walkabout {
+    max-width: 100%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -90px;
+    left: 3rem;
+}
+.mila {
+    max-width: 100%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -94px;
+    left: 3rem;
+}
+.glitter {
+    max-width: 100%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -99px;
+    left: 3rem;
+}
+.glass {
+    max-width: 100%;  
+    height: 50px;
+    margin-left: auto;
+    position: relative;
+    top: -83.5rem; 
+    left: 23.3rem;
+}
+.flower {
+    max-width: 100%;  
+    height: 200px;
+    margin-left: auto;
+    position: relative;
+    top: -60.9rem; 
+    left: 23.3rem;
+}
+.dev {
+    max-width: 100%;  
+    height: 200px;
+    margin-left: auto;
+    position: relative;
+    top: -47.2rem; 
+    left: 23.3rem;
+}
+.dem {
+    max-width: 100%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -111.65rem;
+    left: 43.8rem;
+}
+.couple {
+    max-width: 100%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -111.8rem;
+    left: 43.8rem;
+}
+.inna {
+    max-width: 100%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -113.4rem;
+    left: 43.8rem;
+    width:100%;
+}
+@media only screen and (max-width: 600px) {
+    .booktoday h2 {
+        position: absolute;
+        left: 120px;
+        top: 18rem;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size:large; 
+    }
+    
+button {
+    position: absolute;
+    top:50%;
+    background-color:red;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    color: antiquewhite;
+    font-weight: bold;
+    margin: 0;
+    align-items: center;
+    left: 170px;
+    top: 22rem;
+}
+.about {
+        background-color: black;
+        margin-left: -31rem;
+        margin-right: -31rem;
+        margin-top: 4rem;
+        padding: 280px;
+        block-size: 3rem;
+}
+.about h2 {
+    color: antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 3rem;
+    text-align: left;
+    position: relative;
+    left: 320px;
+    top: -250px;
+    font-size: xx-large;
+}
+.about p {
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: left;
+    position: relative;
+    left: 187px;
+    top: -250px;
+    font-size: larger;
+}
+.about img {
+max-width: 28%;  
+height: auto; 
+margin-left: auto;
+position: relative;
+right: -18.6rem;
+top: -17.4rem;
+}
+.price h2 {
+    color: antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 2.3rem;
+    text-align: left;
+    position: relative;
+    left:254px;
+    top: -240px;
+}
+.basic {
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: left;
+    background-color: grey;
+    margin-left: 6rem;
+    margin-top: 3rem;
+    padding: 75px; 
+    margin-right: 84rem;
+    position: absolute;
+    right: -1260px;
+    block-size: 15.5rem;
+    top: 14.7rem;
+}
+.deluxe {
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: left;
+    background-color: grey;
+    margin-left: 6rem;
+    margin-top: 3rem;
+    padding: 75px; 
+    margin-right: 84rem;
+    position: absolute;
+    right: -1260px;
+    block-size: 15.5rem;
+    top: 45rem;
+}
+.deluxe ul {
+    position: relative;
+    left: -5px;
+    top: -40px;
+}
+.deluxe h3 {
+    position: relative;
+    font-size: 1.1rem;
+    left: 1px;
+    top: -40px;
+}
+.deluxe p {
+    position: relative;
+    left: 49px;
+    top: -37px;
+}
+.basic ul {
+    position: relative;
+    left: -5px;
+    top: -20px;
+}
+.basic p {
+    position: relative;
+    left: 55px;
+    top: -10px;
+}
+.basic h3 {
+    position: relative;
+    left: 1px;
+    top: -40px;
+    font-size: 1.1rem;
+}
+.price {
+    block-size: 76rem;
+}
+.vip {
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: left;
+    background-color: grey;
+    margin-left: 6rem;
+    margin-top: 3rem;
+    padding: 75px; 
+    margin-right: 84rem;
+    position: absolute;
+    right: -1260px;
+    block-size: 15.5rem;
+    top: 74.9rem;
+}
+.vip h3 {
+    position: relative;
+    font-size: 1.1rem;
+    left: 1px;
+    top: -40px;
+}
+.vip p {
+    position: relative;
+    left: 40px;
+    top: -30px;
+}
+.vip ul {
+    position: relative;
+    left: -5px;
+    top: -40px;
+}
+.navigation a {
+    display:inline;
+    color: black;
+    text-align:center;
+    text-decoration: none;  
+    top: 0;
+    width: 100%;
+    padding: 1rem 1rem 1 rem 1rem;
+    padding-left: -70px;
+    position: relative;
+    left: 60px;
+    top: 48px;
+}
+.navigation h1 {
+    position: absolute;
+    left: 160px;
+    top: -1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:x-large;
+}
+.contact h2 {
+    color: antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 3rem;
+    text-align: left;
+    position: relative;
+    left: 346px;
+    top: -170px;
+    font-size: xx-large;
+}
+.contact button {
+    position: absolute;
+    top:50%;
+    background-color:red;
+    border: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    color: antiquewhite;
+    font-weight: bold;
+    margin: 0;
+    align-items: center;
+    left: 180px;
+    top: 13rem;
+    block-size: 4rem;
+    padding-left: 0.65rem;
+}
+.walkabout {
+    max-width: 35%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -6px;
+    left: -21rem;
+}
+.mila {
+    max-width: 35%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -300px;
+    left: -21rem;
+}
+.glitter {
+    max-width: 35%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -159px;
+    left: -21rem;
+}
+.flower {
+    max-width: 35%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -645.5px;
+    left: -13.9rem;
+}
+.dev {
+    max-width: 35%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -660.5px;
+    left: -13.9rem;
+}
+.dem {
+    max-width: 35%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -663.5px;
+    left: -13.9rem;
+}
+.couple {
+    max-width: 35%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -1100.5px;
+    left: -6.8rem;
+}
+.inna {
+    max-width: 35%;  
+    height: auto; 
+    margin-left: auto;
+    position: relative;
+    top: -1100.5px;
+    left: -6.8rem;
+}
+.portfolio {
+    block-size: 20rem;
+}
+}
